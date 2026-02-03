@@ -1,2 +1,1 @@
-# Erik
-Lovely
+https://github.com/yampepper/Erik.git
